@@ -3,7 +3,7 @@ body {
    
 
     font-family: 'Tajawal', sans-serif;
-    background-image: url(https://images.pexels.com/photos/326513/pexels-photo-326513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(/pexels-photo-326513.jpeg);
     /* background: linear-gradient(
 356deg, rgba(109,49,148,1) 16%, rgba(190,131,224,1) 100%); */
     background-size: cover;
