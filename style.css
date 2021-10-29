@@ -14,12 +14,20 @@ body {
 p , span , h1 , h2 ,h3 ,h4 ,h5 {
     font-family: 'Tajawal', sans-serif;
 }
+.wrapper{
+    padding: 0 20px;
+}
 .card{
     direction: rtl;
-    width: 400px;
+    
     margin:  auto;
     background-color:#554684cc !important;
     color: #fff;
+}
+@media (min-width : 991px){
+.card{
+    width: 400px;
+}
 }
 .card p{
     font-size: 24px;
