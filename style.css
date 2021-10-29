@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+body {
+   
+
+    font-family: 'Tajawal', sans-serif;
+    background-image: url(https://images.pexels.com/photos/326513/pexels-photo-326513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    /* background: linear-gradient(
+356deg, rgba(109,49,148,1) 16%, rgba(190,131,224,1) 100%); */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: #111111c7 !important;
+}
+p , span , h1 , h2 ,h3 ,h4 ,h5 {
+    font-family: 'Tajawal', sans-serif;
+}
+.card{
+    direction: rtl;
+    width: 400px;
+    margin:  auto;
+    background-color:#554684cc !important;
+    color: #fff;
+}
+.card p{
+    font-size: 24px;
+}
+.card img{
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+}
+.date{
+    text-align: center;
+    color: #fff;
+    direction: ltr;
+    font-size: 40px;
+}
+.wrapper{
+    flex-direction: column;
+}
+.follow{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
